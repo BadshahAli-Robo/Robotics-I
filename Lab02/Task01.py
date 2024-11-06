@@ -57,14 +57,7 @@ def main():
 if __name__ == "__main__":
 
     main()
-    
-    
-    
-    
-    
-    
-    
-    
+ 
 # FOR ME
 
 #     for row in row_order:
